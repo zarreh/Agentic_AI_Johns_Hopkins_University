@@ -102,6 +102,7 @@ json-repair==0.44.1
 json5==0.13.0
 jsonpatch==1.33
 jsonpointer==3.0.0
+jsonref==1.1.0
 jsonschema==4.26.0
 jsonschema-specifications==2025.9.1
 jupyter-client==8.8.0
@@ -135,6 +136,7 @@ marshmallow==3.26.2
 matplotlib==3.10.8
 matplotlib-inline==0.2.1
 mcp==1.26.0
+mcpadapt==0.1.20
 mdurl==0.1.2
 mistune==3.2.0
 mmh3==5.2.0
