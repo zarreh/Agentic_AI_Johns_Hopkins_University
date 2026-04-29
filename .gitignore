@@ -75,3 +75,10 @@ Thumbs.db
 
 # project section since they will be on their own repository
 projects/
+
+# frontend gradio
+.gradio/
+
+# tabular data and databases
+*.csv
+*.db
