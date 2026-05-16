@@ -28,7 +28,7 @@
         "employment_gap": "None",
         "gap_explanation": "N/A",
         "employment_history": [
-          {
+            {
             "employer": "Tech Solutions Inc",
             "position": "Senior Software Engineer",
             "years": 6.5,
